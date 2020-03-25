@@ -5,6 +5,6 @@ public class Controller {
         return "";
     }
     public String getTest2(){
-        return "";
+        return "beka";
     }
 }
